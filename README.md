@@ -1,5 +1,5 @@
-SDIntranet README
-=================
+README
+======
 
 This project is used to create a base setup of a Drupal site 
 needed for serving an intranet or corporate site with the features
